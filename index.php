@@ -43,6 +43,7 @@ $productList = getProducts();
                             <li class="nav-item">
                                 <a class="nav-link active" aria-current="page" href="#"><strong>Sport Petrovich</strong></a>
                                 <!--                                <img src="https://cdn-icons-png.flaticon.com/512/6957/6957439.png" alt="Logo" width="50" height="48" class="d-inline-block ">-->
+
                             </li>
                             <?php if (!empty($_SESSION['user'])): ?>
 
